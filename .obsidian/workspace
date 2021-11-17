@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "537b75e39082d8aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "16cb3e2209eeecba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "React Basics/0 Index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "652a3cf7a1afce3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "adbcb1c085621d54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b9dfbf8c39b3eb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d627bc6390d5631",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5e9f7024f93be397",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3647e324324905f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c481d966ebfbaa0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Basics/0 Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305,
+    "collapsed": true
+  },
+  "active": "16cb3e2209eeecba",
+  "lastOpenFiles": [
+    "React Basics/0 Index.md",
+    "React Basics/🍀 react redux.md",
+    "React Basics/🍀 react ecosystem.md",
+    "React Basics/9 lifecycle components.md",
+    "React Basics/9.4 error handling.md",
+    "React Basics/1 event handling.md",
+    "event handling.md",
+    "README.md"
+  ]
+}

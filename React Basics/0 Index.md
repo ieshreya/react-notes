@@ -11,8 +11,12 @@
 - [[11 Pure components]]
 - [[12 memo]]
 - [[13 refs]]
+- [[14 forwarding refs]] - 🐣
 
 
 ### One Shot Notes from web
 - [[🍀 react redux]]
 - [[🍀 react ecosystem]]
+
+
+> 🐣 - in progress

@@ -1,4 +1,6 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "shreya"
+  "cssTheme": "Deep Work",
+  "translucency": false,
+  "theme": "obsidian"
 }

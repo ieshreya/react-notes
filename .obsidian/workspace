@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React Basics/0 Index.md",
-            "mode": "source"
+            "file": "React Basics/2 binding event handlers.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 234
   },
   "right": {
     "id": "5e9f7024f93be397",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Basics/0 Index.md",
+                "file": "React Basics/2 binding event handlers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +88,14 @@
   },
   "active": "16cb3e2209eeecba",
   "lastOpenFiles": [
+    "React Basics/2 binding event handlers.md",
     "React Basics/0 Index.md",
-    "React Basics/🍀 react redux.md",
     "React Basics/🍀 react ecosystem.md",
+    "React Basics/🍀 react redux.md",
     "React Basics/9 lifecycle components.md",
-    "React Basics/9.4 error handling.md",
     "React Basics/1 event handling.md",
+    "React Basics/9.1 mounting.md",
+    "React Basics/9.4 error handling.md",
     "event handling.md",
     "README.md"
   ]

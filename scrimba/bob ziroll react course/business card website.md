@@ -34,3 +34,105 @@ ReactDOM.render(<App />, document.getElementById("root"))
 
 ```
 
+`style.css`
+
+```css
+* {
+
+box-sizing: border-box;
+
+}
+
+  
+
+body {
+
+font-family: 'Inter', sans-serif;
+
+}
+
+  
+
+.info {
+
+display: flex;
+
+align-items: center;
+
+justify-content: center;
+
+flex-direction: column;
+
+}
+
+  
+
+.info > img {
+
+width: 300px;
+
+height: auto;
+
+}
+
+  
+
+.info > h2 {
+
+font-family: Inter;
+
+font-size: 25px;
+
+font-weight: 700;
+
+}
+
+  
+  
+
+/* Footer */
+
+.footer > a:link {
+
+text-decoration-style: none;
+
+color: black;
+
+}
+
+```
+
+`App.js`:
+```js
+import React from "react"
+
+import Info from './components/Info.js'
+
+import About from './components/About.js'
+
+import Interests from './components/Interests.js'
+
+import Footer from './components/Footer.js'
+
+  
+
+export default function App() {
+
+return (
+
+<div className="container">
+
+<Info/>
+<About/>
+<Interests/>
+<Footer/>
+</div>
+
+)
+
+}
+```
+
+
+### COMPONENTS:
+

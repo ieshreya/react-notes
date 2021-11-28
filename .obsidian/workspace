@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React Basics/13 refs.md",
+            "file": "scrimba/bob ziroll react course/business card website.md",
+            "mode": "source"
+          }
+        },
+        "group": "687597b37646b203"
+      },
+      {
+        "id": "253984acfe72d9fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "scrimba/bob ziroll react course/business card website.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "687597b37646b203"
       }
     ],
     "direction": "vertical"
@@ -52,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234
+    "width": 234,
+    "collapsed": true
   },
   "right": {
     "id": "5e9f7024f93be397",
@@ -68,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Basics/13 refs.md",
+                "file": "scrimba/bob ziroll react course/business card website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +102,15 @@
   },
   "active": "16cb3e2209eeecba",
   "lastOpenFiles": [
+    "scrimba/bob ziroll react course/business card website.md",
+    "README.md",
+    "React Basics/1 event handling.md",
+    "React Basics/2 binding event handlers.md",
     "React Basics/13 refs.md",
     "React Basics/11 Pure components.md",
     "React Basics/9.1 mounting.md",
     "React Basics/🍀 react redux.md",
     "React Basics/🍀 react ecosystem.md",
-    "React Basics/9.4 error handling.md",
-    "React Basics/9.2 updating.md",
-    "React Basics/9 lifecycle components.md",
-    "React Basics/7 conditionally applying classes - css styles.md",
-    "React Basics/5 list rendering.md"
+    "React Basics/9.4 error handling.md"
   ]
 }

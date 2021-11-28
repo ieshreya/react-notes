@@ -17,6 +17,7 @@
 ### One Shot Notes from web
 - [[🍀 react redux]]
 - [[🍀 react ecosystem]]
+- [[🍀 react notes by @8483 (github)]]
 
 
 > 🐣 - in progress

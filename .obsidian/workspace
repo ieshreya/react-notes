@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "scrimba/bob ziroll react course/business card website.md",
-            "mode": "source"
-          }
-        },
-        "group": "687597b37646b203"
-      },
-      {
-        "id": "253984acfe72d9fa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "scrimba/bob ziroll react course/business card website.md",
+            "file": "🍀 react notes by @8483 (github).md",
             "mode": "preview"
           }
-        },
-        "group": "687597b37646b203"
+        }
       }
     ],
     "direction": "vertical"
@@ -65,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234,
-    "collapsed": true
+    "width": 234
   },
   "right": {
     "id": "5e9f7024f93be397",
@@ -82,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scrimba/bob ziroll react course/business card website.md",
+                "file": "🍀 react notes by @8483 (github).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +88,15 @@
   },
   "active": "16cb3e2209eeecba",
   "lastOpenFiles": [
+    "🍀 react notes by @8483 (github).md",
+    "React Basics/0 Index.md",
+    "React Basics/🍀 react redux.md",
+    "React Basics/🍀 react ecosystem.md",
     "scrimba/bob ziroll react course/business card website.md",
     "README.md",
     "React Basics/1 event handling.md",
     "React Basics/2 binding event handlers.md",
     "React Basics/13 refs.md",
-    "React Basics/11 Pure components.md",
-    "React Basics/9.1 mounting.md",
-    "React Basics/🍀 react redux.md",
-    "React Basics/🍀 react ecosystem.md",
-    "React Basics/9.4 error handling.md"
+    "React Basics/11 Pure components.md"
   ]
 }

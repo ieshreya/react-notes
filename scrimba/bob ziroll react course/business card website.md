@@ -103,7 +103,7 @@ color: black;
 ```
 
 `App.js`:
-```js
+```jsx
 import React from "react"
 
 import Info from './components/Info.js'
@@ -136,3 +136,127 @@ return (
 
 ### COMPONENTS:
 
+`Info.js`
+
+```jsx
+import React from 'react';
+
+  
+
+export default function Info(){
+
+return (
+
+<>
+
+<div className="info">
+
+<img src="https://64.media.tumblr.com/47c605a155779569f5154e624613138b/11d03c1595b7f8c7-b1/s1280x1920/31a0fdddd8c56435ec53096aaae7c7658e4502db.jpg"/>
+
+<h2>Shreya Purohit</h2>
+
+<h4>Front End Developer</h4>
+
+<a href="shreyapurohit.now.sh">shreyapurohit.now.sh</a>
+
+<div className="btns">
+
+<button><i class="far fa-envelope"></i> Email</button>
+
+<button><i class="fab fa-twitter"></i> Twitter</button>
+
+</div>
+
+</div>
+
+</>
+
+)
+
+}
+```
+
+
+`About.js`
+
+
+```jsx
+import React from 'react';
+
+  
+
+export default function About(){
+
+return (
+
+<>
+
+<h3>About</h3>
+
+<p>I am a frontend developer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.</p>
+
+</>
+
+)
+
+}
+
+```
+
+`Interests.js`
+
+
+```jsx
+import React from 'react';
+
+  
+
+export default function Interests(){
+
+return (
+
+<>
+
+<h3>Interests</h3>
+
+<p>Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.</p>
+
+</>
+
+)
+
+}
+```
+
+`Footer.js`
+
+
+```jsx
+import React from 'react';
+
+  
+
+export default function Footer(){
+
+return (
+
+<>
+
+<h3>Footer Page</h3>
+
+<div className="footer">
+
+<a href="mailto:shreya.purohit002@gmail.com"><i class="far fa-envelope"></i></a>
+
+<a href="https://www.twitter.com/eyeshreya"><i class="fab fa-twitter"></i> </a>
+
+<a href="https://www.github.com/ieshreya"><i class="fab fa-github"></i> </a>
+
+<a href="https://www.instagram.com/ieshreya"><i class="fab fa-instagram"></i> </a>
+
+</div> </>
+
+)
+
+}
+```
